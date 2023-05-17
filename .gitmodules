@@ -1,0 +1,9 @@
+[submodule "animatedindicator"]
+	path = animatedindicator
+	url = https://github.com/TreeGardenDev/RaspberryPi-wasm-aniindicator.git
+[submodule "batteryindicator"]
+	path = batteryindicator
+	url = https://github.com/TreeGardenDev/RaspberryPI-wasm-batteryind.git
+[submodule "pihost"]
+	path = pihost
+	url = https://github.com/TreeGardenDev/RaspberryPi-wasm-pihost.git
